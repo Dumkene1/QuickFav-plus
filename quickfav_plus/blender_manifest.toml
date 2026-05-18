@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "quickfav_plus"
+version = "1.0.0"
+name = "QuickFav Plus"
+tagline = "Organized user-managed favorites menu for Blender commands"
+maintainer = "Dk"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["User Interface"]
